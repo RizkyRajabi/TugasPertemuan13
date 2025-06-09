@@ -47,7 +47,7 @@ struct Queue {
     NodeAntrian *front, *rear;
 };
 
-// ====== IMPLEMENTASI STACK untuk Riwayat Peminjaman ====== // DIUBAH
+// ====== IMPLEMENTASI STACK untuk Riwayat Peminjaman ======
 struct Riwayat {
     string info;
 };
